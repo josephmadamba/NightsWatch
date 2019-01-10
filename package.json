@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/DCPhase2Project/NightsWatch/issues"
   },
-  "homepage": "https://github.com/DCPhase2Project/NightsWatch#readme"
+  "homepage": "https://github.com/DCPhase2Project/NightsWatch#readme",
+  "dependencies": {
+    "pg": "^7.7.1",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^4.42.0"
+  }
 }
